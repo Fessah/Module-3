@@ -1,0 +1,49 @@
+/**Header**/
+#nav-title {
+	background: #B2B2B2;
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-brand h1 {
+	font-family:'Roboto', sans-serif;
+	font-size: 1.2em;
+	color: #000000;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+.menu-title h1 {
+	width: 100%;
+	text-align: center;
+	margin-top: 0;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #000000;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #CDFFF7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+/**Body**/
+.reallylongtext p {
+	text-align: justify;
+	background: #FFFBE0;
+	font-family:'Roboto', sans-serif;
+}
+.reallylongtext h2 {
+	text-align: center;
+	background: #FFFBE0;
+	margin-bottom: 0;
+	font-family:'Roboto', sans-serif;
+}
